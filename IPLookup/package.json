@@ -1,0 +1,13 @@
+{
+  "name": "IPLookup",
+  "version": "1.0.0",
+  "description": "A Tool to lookup the Country of a Country",
+  "main": "index.js",
+  "repository": "https://github.com/moelrobi/Projects",
+  "author": "Robin Möller <moelrobi@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "got": "^9.6.0"
+  }
+}
