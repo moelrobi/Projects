@@ -1,0 +1,14 @@
+{
+  "name": "RSSReaderCLI",
+  "version": "1.0.0",
+  "description": "Ein RSS Reader der von jedem Newsfeed lesen kann.",
+  "main": "index.js",
+  "repository": "https://github.com/moelrobi/Projects.git",
+  "author": "Robin Möller <moelrobi@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "rss-parser": "^3.6.3",
+    "striptags": "^3.1.1"
+  }
+}

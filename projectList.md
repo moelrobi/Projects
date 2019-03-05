@@ -1,6 +1,6 @@
 # This is the List of Projects i want to tackle in this Repo.
 
-- [ ] RSS Feed Creator - Given a link to RSS/Atom Feed, get all posts and display them.
+- [x] RSS Feed Creator - Given a link to RSS/Atom Feed, get all posts and display them.
 - [ ] Post it Notes Program - A program where you can add text reminders and post them. Optional: You can have the program also add popup reminders
 - [ ] Guestbook / Journal - A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box. Optional: Deploy it on Google App Engine or Heroku or any other PaaS (if possible, of course).
 - [ ] Fortune Teller (Horoscope) - A program that checks your horoscope on various astrology sites and puts them together for you each day.
